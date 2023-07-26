@@ -2,12 +2,12 @@
 Sou um estudante de engenharia que é apaixonado por tecnologias. <br>
 Desenvolvedor Front-end quase Full Stack.
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 <section align="center">
   <img src= "https://skillicons.dev/icons?i=js,html,css,bootstrap,figma">
 </section>
 
-### 📱 Socials
+## 📱 Socials
 <section align="center">
   <a href="https://linkedin.com/in/jsvenancius/">
     <img src="https://skillicons.dev/icons?i=linkedin">
@@ -20,7 +20,7 @@ Desenvolvedor Front-end quase Full Stack.
   </a>
 </section>
 
-### <img width="32px" src="https://skillicons.dev/icons?i=github"> Github Stats
+## <img width="32px" src="https://skillicons.dev/icons?i=github"> Github Stats
 <section>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=steniovenancius&show_icons=true&theme=merko">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steniovenancius&layout=compact&theme=merko">
