@@ -22,5 +22,5 @@ Desenvolvedor Front-end quase Full Stack.
 
 ## <img width="32px" src="https://skillicons.dev/icons?i=github"> Github Stats
 <section>
-  ![Stênio Github Status](https://github-readme-stats.vercel.app/api?username=steniovenancius&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=steniovenancius&show_icons=true&theme=radical">
 </section>
