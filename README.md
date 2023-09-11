@@ -22,7 +22,7 @@ Desenvolvedor Front-end quase Full Stack.
 
 ## <img width="32px" src="https://skillicons.dev/icons?i=github"> Github Stats
 <section>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=steniovenancius&show_icons=true&theme=radical">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steniovenancius&layout=compact&theme=radical">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=steniovenancius&show_icons=true&theme=radical">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steniovenancius&layout=compact&theme=radical">
 </section>
 
