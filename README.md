@@ -4,7 +4,7 @@ Desenvolvedor Front-end quase Full Stack.
 
 ## 💻 Tech Stack
 <section align="center">
-  <img src= "https://skillicons.dev/icons?i=js,html,css,bootstrap,figma">
+  <img src= "https://skillicons.dev/icons?i=angular,js,html,css,bootstrap,figma">
 </section>
 
 ## 📱 Socials
