@@ -1,6 +1,12 @@
 # Hi, I'm Stênio Venancius! 👋🏼
-Sou um estudante de engenharia que é apaixonado por tecnologias. <br>
-Desenvolvedor Front-end quase Full Stack.
+<p>
+  <em>Civil Engineering Student at Uninassau</em><br>
+  <em>Passionate about Web Development</em>
+</p>
+
+[![Linkedin: Stênio Venancius](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsvenancius/)
+[![Instagram: Venancius](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/veeennix/)
+[![Github Stênio Venancius](https://img.shields.io/github/followers/steniovenancius.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/steniovenancius)
 
 ## 💻 Tech Stack
 <section align="center">
