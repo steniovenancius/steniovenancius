@@ -2,7 +2,7 @@
 <p>
   <em>Front-end Developer</em><br>
   <em>Passionate about Web Development</em><br>
-  <em>Civil Engineering Student at Uninassau</em>
+  <em>Computer Engineering Student at Descomplica</em>
 </p>
   
 [![Linkedin: Stênio Venancius](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsvenancius/)
